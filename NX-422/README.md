@@ -11,7 +11,6 @@ Weekly Exercises are optional but are applied problems to help us practice the c
 * exercises
 
 *side note: exercises that were skipped were due to presentation weeks (e.g. exercise5, exercise8, exercise13)*
-
     * exercise1 - Image Manipulation 
     * exercise2 - Preprocessing (f)MRI
     * exercise3 - Preprocessing fNIRS and dMRI

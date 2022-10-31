@@ -1,0 +1,14 @@
+name: NX-421
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - dipy
+  - mne-nirs
+  - jupyterlab
+  - fsleyes
+  - matplotlib
+  - pyabel
+  - mne-bids
+  - openneuro-py

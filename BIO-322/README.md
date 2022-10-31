@@ -1,4 +1,4 @@
-# BIO-322: Machine Learning for Bioengineers (in Julia) (Dr. Johanni Brea)
+# BIO-322: Machine Learning for Bioengineers (Dr. Johanni Brea)
 ---
 #### Course taken: Winter 2022 Semester
 

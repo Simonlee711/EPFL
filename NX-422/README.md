@@ -8,8 +8,7 @@
 
 Weekly Exercises are optional but are applied problems to help us practice the concepts being taught in the course. Mini projects are using what we learned in the weekly excercises to apply them on our data analysis pipelines of neurological data. Lastly installation contains several key files needed to run these files properly (Follow readme in that directory). 
 
-* exercises
-
+* exercises</br>
 *side note: exercises that were skipped were due to presentation weeks (e.g. exercise5, exercise8, exercise13)*
     * exercise1 - Image Manipulation 
     * exercise2 - Preprocessing (f)MRI

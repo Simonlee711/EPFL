@@ -9,11 +9,11 @@
 Homeworks are required assignments that require our team to complete several concepts covered throughout the course.
 Tutorials are optional assignments that help us expose ourselves to the concepts that are not all covered in preparation for the group project. A directory of these are provided below.
 
-* Homework
+* **Homework**
     * 00 - Optional Homework
     * hw1 - Pandas, Graphing, Aggregating Data Analysis of A/B Testing
 
-* Tutorials
+* **Tutorials**
     * 00 - Intro to Tools
     * 01 - Handling Data
     * 02 - Data viz and data from the web

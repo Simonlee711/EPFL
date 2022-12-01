@@ -12,7 +12,7 @@ The course was divided into three modules taught by the three professors. The cl
 - Module 3: Gene Expression and Chronobiology
 
 * **Projects**
-    * Module 1 Project: 
-    * Module 2 Project:
-    * Module 3 Project: 
+    * Module 1 Project Collaborators: Daniel Cavaleri, Daniel Molinuevo, Lucille Niederhauser
+    * Module 2 Project Collaborators: Helena Binková, Emeline Debalme, Jeff Tamburi
+    * Module 3 Project Collaborators: 
 
